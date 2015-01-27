@@ -28,6 +28,8 @@ Config management basics
 Deployment
 * How does code get to servers?
 * How is this related to config management?
+Deploying your own website
+* Configuration, scripting, and the cloud, oh my!
 
 ## Class 4 - System Architecture
 LAMP stack
@@ -40,5 +42,7 @@ Troubleshooting
 * Tools
 * Common issues
 * Dealing with crises
-
+Where to go from here
+* Resources for additional learning
+* Example ops projects
 
